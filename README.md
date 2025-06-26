@@ -33,16 +33,3 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 - "Strings with teeth: hunting malware’s second layer"
 
 ---
-
-## 🧾 Signature Block
-
--= [ _Sab0x1D_ ] =-  
-Digital Forensic Nomad → Hex-bound | Ghost-backed
-
-```txt
-Track • Profile • Burn:
-{
-  Silent ops;
-  Malware trace;
-  Infra teardown;
-}
