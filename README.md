@@ -9,7 +9,7 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 
 - Reverse engineering logs & live-debug notes  
 - Malware deconstruction flows (e.g., anti-VM, crypters, shellcode loaders)  
-- 🕯Cold case samples that defy attribution or tooling  
+- Cold case samples that defy attribution or tooling  
 - Tools, diagrams, and annotated dumps
 
 ---
