@@ -5,16 +5,16 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 
 ---
 
-## ✍️ What You'll Find
+## What You'll Find
 
-- 🧠 Reverse engineering logs & live-debug notes  
-- 🧬 Malware deconstruction flows (e.g., anti-VM, crypters, shellcode loaders)  
-- 🕯️ Cold case samples that defy attribution or tooling  
-- 🧰 Tools, diagrams, and annotated dumps
+- Reverse engineering logs & live-debug notes  
+- Malware deconstruction flows (e.g., anti-VM, crypters, shellcode loaders)  
+- 🕯Cold case samples that defy attribution or tooling  
+- Tools, diagrams, and annotated dumps
 
 ---
 
-## 📁 Structure
+## Structure
 
 | Folder             | Description                                                |
 |--------------------|------------------------------------------------------------|
@@ -25,7 +25,7 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 
 ---
 
-## 📌 Sample Topics
+## Sample Topics
 
 - "Unpacking stack-stomping loaders"
 - "Tracing poly XOR loop obfuscation"
