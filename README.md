@@ -28,8 +28,6 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 ## Sample Topics
 
 - "Unpacking stack-stomping loaders"
-- "Tracing poly XOR loop obfuscation"
-- "Rebuilding C2 patterns from DGA"
 - "Strings with teeth: hunting malware’s second layer"
 
 ---
