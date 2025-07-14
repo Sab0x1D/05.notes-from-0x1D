@@ -1,6 +1,6 @@
 # notes-from-0x1D
 
-**Reverse Engineering Notes & Cold Case Writeups**  
+**Reverse Engineering Notes, Cold Case Writeups & Tools/Scripts**  
 A running archive of threat dissection logs, obfuscation tricks, and case files from the edge of malware research.
 
 ---
