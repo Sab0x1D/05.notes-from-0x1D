@@ -24,10 +24,3 @@ A running archive of threat dissection logs, obfuscation tricks, and case files 
 | `./tools/`         | One-off scripts or cheat sheets                            |
 
 ---
-
-## Sample Topics
-
-- "Unpacking stack-stomping loaders"
-- "Strings with teeth: hunting malware’s second layer"
-
----
