@@ -4,7 +4,7 @@ This GUI-based tool provides analysts, malware researchers, and power users with
 
 Designed with verbose output, elevation enforcement, and selectable task execution, this utility ensures clarity and control over Windows service and bloatware removal operations.
 
-> See how this integrates into a full analysis lab setup:  
+> See how this integrates into a full analysis lab setup: 
 > [mal_lab_setup](https://github.com/Sab0x1D/mal_lab_setup)
 
 ---
